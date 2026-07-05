@@ -1,0 +1,13 @@
+# Virtual environment
+project1venv/
+
+# Environment variables (API key থাকে)
+.env
+requirement.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Images
+images/
